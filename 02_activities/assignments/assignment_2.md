@@ -33,9 +33,7 @@
       This data visualization could have been improved by:
 
       •  Simplifying the design. Unnecessary elements should be remove and focus should be on the key data points.
-
       •  Using a limited and distinct color palette to clearly distinguish the data points. The colors should be used consistently and meaningfully to aid understanding.
-
       •  Clearing labels and legends.
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
