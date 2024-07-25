@@ -9,7 +9,7 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```Good data visualization: https://www.visualcapitalist.com/history-of-pandemics-deadliest/
+    '''Good data visualization: https://www.visualcapitalist.com/history-of-pandemics-deadliest/
     
     I classified it as good because:
 
@@ -35,7 +35,8 @@
 
     •  Labels and legends are either missing or not clear enough to provide context to the data, making it difficult for users to understand what each item means.
 
-    •  The way the data is presented can be misleading. For example, in this data visualization https://datavizproject.com/data-type/bubble-map-chart/ they used the dimension of the baloon as a number of people that live in a district, and the color of the baloon as a persentage of foreighners. It's too complicated to inderstand. Users may get confused by seeing a small, but dark and with a large percentage, balloon.```
+    •  The way the data is presented can be misleading. For example, in this data visualization https://datavizproject.com/data-type/bubble-map-chart/ they used the dimension of the baloon as a number of people that live in a district, and the color of the baloon as a persentage of foreighners. It's too complicated to inderstand. Users may get confused by seeing a small, but dark and with a large percentage, balloon.'''
+
     - How could this data visualization have been improved?  
       ```This data visualization could have been inmproved by:
 
