@@ -10,25 +10,31 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+    Good data visualization: https://www.visualcapitalist.com/history-of-pandemics-deadliest/
+    
+    I classified it as good because:
+    •  It’s clear and easy to read. It uses a bubble chart where the size of each bubble represents the number of deaths caused by each pandemic. This makes it easy to compare the relative impact of different pandemics.
+    •  The colors are effectively used to distinguish between different pandemics and historical periods. It helps quickly identify and differentiate pandemics. 
+    •  It’s informative and contextual. Each bubble contains the name of the pandemic and the number of deaths. There is a timeline at the bottom that provides historical context, making it easier for the viewer to understand the temporal distribution of pandemics.
+    •  It’s attractive and interactive, allowing users to hover over each bubble to get more detailed information.
+
+    In my opinion, an important goal has been achieved here - to show users the importance of the problem, to make them think about the importance of their health and the health of others.
 
 
+    Bad data visualization: https://www.flickr.com/photos/densitydesign/albums/72157631774207511/
 
-
-
-
-
+    I classified it as bad because:
+    •  It’s very complex, with too many elements and data points plotted on a single image. This complexity makes it difficult to understand the main message.
+    •  Сolor scheme used in the visualization is ineffective. There are too many colors, many of which are similar, making it hard to distinguish between different data points. 
+    •  Labels and legends are either missing or not clear enough to provide context to the data, making it difficult for users to understand what each item means.
+    •  The way the data is presented can be misleading. For example, in this data visualization https://datavizproject.com/data-type/bubble-map-chart/ they used the dimension of the baloon as a number of people that live in a district, and the color of the baloon as a persentage of foreighners. It's too complicated to inderstand. Users may get confused by seeing a small, but dark and with a large percentage, balloon.
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
-
-
-
-
-
-      
+    This data visualization could have been inmproved by:
+    •  Simplifying the design. Unnecessary elements should be remove and focus should be on the key data points.
+    •  Using a limited and distinct color palette to clearly distinguish the data points. The colors should be used consistently and meaningfully to aid understanding.
+    •  Clearing labels and legends.
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
