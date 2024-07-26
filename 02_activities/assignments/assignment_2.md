@@ -30,11 +30,18 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      This data visualization could have been improved by:
+      The good data visualization could have been improved by:
+
+      •  Adding more detailed annotations for significant pandemics can provide additional context and understanding.
+      •  Adding more information about ongoing pandemic. This information would be timely.
+      •  Adding dynamics over time for understanding the scale.
+      •  Making the data visualization inclusive.
+      
+      The bad data visualization could have been improved by:
 
       •  Simplifying the design. Unnecessary elements should be remove and focus should be on the key data points.
       •  Using a limited and distinct color palette to clearly distinguish the data points. The colors should be used consistently and meaningfully to aid understanding.
-      •  Clearing labels and legends.
+      •  Clearing labels and legends. Removing insignificant information to focus more on the important.
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
