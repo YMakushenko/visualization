@@ -13,7 +13,7 @@
         - Equitable. The visualization covers pandemics from different regions and time periods, providing a global perspective; there is no apparent bias in the presentation, each pandemic is treated equally, ensuring a balanced view.
 
         
-        The "good" visualization (https://www.visualcapitalist.com/history-of-pandemics-deadliest/) is:
+        The "bad" visualization (https://www.flickr.com/photos/densitydesign/albums/72157631774207511/) is:
         - Accessible. The color scheme is too complex and lacks contrast, making it difficult to distinguish between different data points; the text is small and messy, which makes it difficult to read and understand the information presented.
         - Reproducible. There are no visible links to the data sources, making it impossible to verify or reproduce the visualizations; the lack of explanation of the methods used to create the visualizations further hinders reproducibility.
         - Equitable. Visualizations may reflect biases in the selection or presentation of data that aren't transparent to the viewer; focusing on specific data sets without context or explanation can lead to misinterpretation and doesn't ensure a fair representation of all relevant data.
