@@ -10,16 +10,30 @@
     > What software did you use to create your data visualization?
     1. I used Jupyter Notebook for creating my data visualization. Specifically, I used Python libraries including pandas for data manipulation, folium for creating interactive maps, and geopy for geocoding addresses.
 
+    2. I used Power BI to create my second data visualization.
+
+
     > Who is your intended audience? 
     1. The intended audience for this visualization includes parents looking for licensed child care centers in Toronto, policymakers, and researchers interested in analyzing the distribution and availability of child care services in the city.
+
+    2. The intended audience for this visualization includes policymakers, city planners, education administrators, and parents in Toronto. This visualization is designed to help them understand the distribution and capacity of licensed child care centres across the city.
+
     
     > What information or message are you trying to convey with your visualization? 
     1. The main message of the visualization is to show the geographical distribution of licensed child care centers in Toronto and to highlight which centers offer fee subsidy contracts. This helps in identifying areas with high or low availability of subsidized child care services.
+
+    2. The visualization aims to convey the total number of child care spaces available in various licensed child care centres in Toronto. It highlights the different types of child care spaces (e.g., infant, toddler, preschool, kindergarten, school-age) and distinguishes centres that offer fee subsidies from those that don't.
+
     
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
     1. Substantive: The map is focused on providing meaningful information about the location and subsidy status of child care centers. This helps users make informed decisions.
     Perceptual: Different colors are used to distinguish between centers that offer fee subsidies and those that do not, making it easy to perceive the information at a glance.
     Aesthetic: The map is designed to be visually appealing yet simple. Clean markers and no legends by default ensures that the map is not cluttered. Legends pop-up when to move the cursor over the selected marker. Markers are chosen to be easily visible against the map background. The map is centered around Toronto with an appropriate zoom level to give a clear view of the city and the distribution of the centers.
+
+    2. Substantive: I ensured the data accurately represented the number and types of child care spaces available at each centre.
+    Perceptual: I used different colors for the different types of spaces (IGSPACE, TGSPACE, PGSPACE, KGSPACE, SGSPACE).
+    Aesthetic: I chose a clean and readable layout, with a horizontal bar chart to make it easy to compare the total spaces across different centres. The use of color helps in distinguishing between the various categories.
+
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     1. I ensured reproducibility by:
@@ -27,17 +41,28 @@
     - writing and documenting the code in Jupyter Notebook, which can be shared and executed in any environment with the required libraries installed.
     - including installation commands for necessary libraries to facilitate setting up the environment.
     If the tool was not reproducible, it would significantly impact the usability and reliability of the visualization, making it difficult for others to verify or build upon my work.
+
+    2. To ensure reproducibility, I used Power BI, which allows for the visualization to be recreated using the same dataset and steps. If Power BI weren't reproducible, it'd impact the ability to verify and build upon the analysis.
+
     
     > How did you ensure that your data visualization is accessible? 
     1. Using clear and distinguishable colors for markers to aid in quick identification.
     Adding tooltips and pop-ups on the map markers to provide additional information about each child care center.
-    Ensuring the map is interactive and can be zoomed and panned for better visibility and user experience. 
+    Ensuring the map is interactive and can be zoomed and panned for better visibility and user experience.
+
+    2. I used apropriate colors and included labels and a legend to ensure the visualization is accessible to people with visual impairments. The chart is designed to be clear and easy to interpret, with explanatory text for different space types and subsidy status. 
     
     > Who are the individuals and communities who might be impacted by your visualization? 
     1. The individuals and communities impacted by this visualization are:
-    - parents looking for child care options in Toronto.
-    - policymakers and local government officials who plan and allocate resources for child care services.
-    - community organizations that advocate for improved child care services and accessibility. 
+    - parents looking for child care options in Toronto
+    - policymakers and local government officials who plan and allocate resources for child care services
+    - community organizations that advocate for improved child care services and accessibility
+
+    2. The individuals and communities impacted by this visualization are:
+    - parents looking for child care
+    - policymakers making decisions about funding and resource allocation
+    - and child care providers looking to understand the competitive landscape
+
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
     1. I included features that are most relevant to the intended audience:
@@ -45,6 +70,10 @@
     - the subsidy column to highlight centers that offer fee subsidies.
     - geographic coordinates for plotting on the map.
     Other features, such as the total number of spaces available and building types, were not included in the map but could be used in additional visualizations if needed.
+
+
+    2. I included features directly related to the capacity and subsidy status of the child care centres, as these are the most relevant to the intended audience. Features such as the exact address and phone numbers were excluded to maintain focus on the capacity and subsidy information.
+
     
     > What ‘underwater labour’ contributed to your final data visualization product?
     1. The ‘underwater labour’ contributed:
@@ -52,6 +81,9 @@
     - geocoding the addresses to obtain latitude and longitude coordinates, which was a time-consuming process.
     - designing the visualization to be both informative and visually appealing, which included choosing appropriate colors and ensuring the map's interactivity.
     - testing and debugging the code to ensure it runs smoothly and accurately represents the data.
+
+    2. The ‘underwater labour’ included cleaning the data, ensuring its accuracy, and deciding how to best represent it visually. This also involved trial and error in Power BI to find the most effective chart type and design for conveying the information clearly and effectively.
+
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
