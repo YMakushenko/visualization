@@ -42,6 +42,7 @@
     - including installation commands for necessary libraries to facilitate setting up the environment.
     If the tool was not reproducible, it would significantly impact the usability and reliability of the visualization, making it difficult for others to verify or build upon my work.
 
+
     2. To ensure reproducibility, I used Power BI, which allows for the visualization to be recreated using the same dataset and steps. If Power BI weren't reproducible, it'd impact the ability to verify and build upon the analysis.
 
     
@@ -50,18 +51,21 @@
     Adding tooltips and pop-ups on the map markers to provide additional information about each child care center.
     Ensuring the map is interactive and can be zoomed and panned for better visibility and user experience.
 
-    2. I used apropriate colors and included labels and a legend to ensure the visualization is accessible to people with visual impairments. The chart is designed to be clear and easy to interpret, with explanatory text for different space types and subsidy status. 
+    2. I used appropriate colors and included labels and a legend to ensure the visualization is accessible to people with visual impairments. The chart is designed to be clear and easy to interpret, with explanatory text for different space types and subsidy status. 
     
+
     > Who are the individuals and communities who might be impacted by your visualization? 
     1. The individuals and communities impacted by this visualization are:
     - parents looking for child care options in Toronto
     - policymakers and local government officials who plan and allocate resources for child care services
     - community organizations that advocate for improved child care services and accessibility
 
+
     2. The individuals and communities impacted by this visualization are:
     - parents looking for child care
     - policymakers making decisions about funding and resource allocation
     - and child care providers looking to understand the competitive landscape
+
 
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
@@ -75,6 +79,7 @@
     2. I included features directly related to the capacity and subsidy status of the child care centres, as these are the most relevant to the intended audience. Features such as the exact address and phone numbers were excluded to maintain focus on the capacity and subsidy information.
 
     
+
     > What ‘underwater labour’ contributed to your final data visualization product?
     1. The ‘underwater labour’ contributed:
     - cleaning and preprocessing the data, including handling missing values and ensuring data quality.
@@ -82,7 +87,9 @@
     - designing the visualization to be both informative and visually appealing, which included choosing appropriate colors and ensuring the map's interactivity.
     - testing and debugging the code to ensure it runs smoothly and accurately represents the data.
 
+
     2. The ‘underwater labour’ included cleaning the data, ensuring its accuracy, and deciding how to best represent it visually. This also involved trial and error in Power BI to find the most effective chart type and design for conveying the information clearly and effectively.
+
 
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
